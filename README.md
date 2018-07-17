@@ -16,9 +16,9 @@
 
 - [12 Amazing New Data Visualization Examples from the Web](https://infogram.com/blog/12-amazing-new-data-visualization-examples-web/)
 
-  
+- [#MakeoverMonday](https://blog.naver.com/datageeks/221056662768) : 데이터 시각화에 관심이 있는 사람은 누구나 트위터에 #MakeoverMonday로 해쉬태그를 검색하면 참여할 수 있는 시각화 프로젝트
 
 
 
 ## 참고자료
-
+- https://informationisbeautiful.net/ : information is beautiful이라는 책의 출판과 함께 다양한 data visualization 결과물을 볼 수 있는 사이트
