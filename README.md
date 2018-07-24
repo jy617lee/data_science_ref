@@ -15,6 +15,7 @@
 - [공공데이터 포럼 시각화](https://www.data.go.kr/useCase/visualization/index.do) : 공공데이터 포럼에 있는 데이터를 이용한 시각화 프로젝트를 모아둔 사이트로 실제 시각화 프로젝트를 만들어 볼 수도 있다. 
 - [12 Amazing New Data Visualization Examples from the Web](https://infogram.com/blog/12-amazing-new-data-visualization-examples-web/)
 - [MakeoverMonday](https://blog.naver.com/datageeks/221056662768) : 데이터 시각화에 관심이 있는 사람은 누구나 트위터에 #MakeoverMonday로 해쉬태그를 검색하면 참여할 수 있는 시각화 프로젝트
+- [Trulia](https://www.trulia.com/) : 샌프란시스코의 부동산 정보와 구글 검색 정보를 이용해 여러가지 지표로 부동산을 평가한 사이트
 
 ## 참고자료
 
