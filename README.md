@@ -19,8 +19,11 @@
 
 - [12 Amazing New Data Visualization Examples from the Web](https://infogram.com/blog/12-amazing-new-data-visualization-examples-web/)
 
-  
+- [MakeoverMonday](https://blog.naver.com/datageeks/221056662768) : 데이터 시각화에 관심이 있는 사람은 누구나 트위터에 #MakeoverMonday로 해쉬태그를 검색하면 참여할 수 있는 시각화 프로젝트
 
+- [Trulia](https://www.trulia.com/) : 샌프란시스코의 부동산 정보와 구글 검색 정보를 이용해 여러가지 지표로 부동산을 평가한 사이트
+
+  
 ## 참고자료
 
 - [Seaborn](http://seaborn.pydata.org/examples/) : Matplotlib에 다양한 테마와 통계용 차트 등의 기능을 추가한 시각화 패키지인 Seaborn의 예제들을 참고할 수 있다. 
