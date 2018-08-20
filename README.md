@@ -23,6 +23,8 @@
 
 - [Trulia](https://www.trulia.com/) : 샌프란시스코의 부동산 정보와 구글 검색 정보를 이용해 여러가지 지표로 부동산을 평가한 사이트
 
+- [Information is Beautiful](https://informationisbeautiful.net/) : 인포그래픽 분야의 유명 저자인 [David McCandless](http://www.davidmccandless.com/)가 이끄는 팀이 진행하는 데이터 시각화 프로젝트들 모음 
+
   
 ## 참고자료
 
