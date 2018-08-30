@@ -26,7 +26,8 @@
 
 - [Information is Beautiful](https://informationisbeautiful.net/) : 인포그래픽 분야의 유명 저자인 [David McCandless](http://www.davidmccandless.com/)가 이끄는 팀이 진행하는 데이터 시각화 프로젝트들 모음 
 
-  
+- [데이터 저널리즘 어워드](https://www.datajournalismawards.org/2018-winners/) : 
+  데이터 시각화 관련 국제대회인 데이터 저널리즘 어워드의 2018년 수상작
 ## 참고자료
 
 - [Seaborn](http://seaborn.pydata.org/examples/) : Matplotlib에 다양한 테마와 통계용 차트 등의 기능을 추가한 시각화 패키지인 Seaborn의 예제들을 참고할 수 있다. 
