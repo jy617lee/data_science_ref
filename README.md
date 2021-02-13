@@ -2,6 +2,7 @@
 
 - [공공데이터포럼](https://www.data.go.kr/) : 공공 데이터를 신청하고, 활용한 예시들을 볼 수 있는 사이트
 - [skt data hub](https://www.bigdatahub.co.kr/product/list.do?event_type=TPREMIUM) : skt의 통신데이터를 기반으로 한 각종 트렌드 데이터를 제공. 데이터 조합, 시각화, 공유 등의 기능 제공
+- [서울 열린데이터광장](http://data.seoul.go.kr/) : 서울시 공공 데이터의 민간 개방/소통을 위한 사이트
 
 
 ## 프로젝트
@@ -11,7 +12,6 @@
 - [꽃길만 걷자](https://github.com/FloweryRoads)
 - [소원영 디자이너의 데이터 시각화 프로젝트](http://wonyoung.so/)
 - [gunshot death](https://guns.periscopic.com/?year=2013) : 총기사고로 죽은 사망자 수, 그 죽음으로 인해 살지 못한 생(stolen years)의 관계를 시각화
-
 
 
 ## 프로젝트 모음
